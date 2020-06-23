@@ -66,7 +66,7 @@ describe('SpawnWeapons', (it, beforeEach, afterEach) => {
         command.giveSpawnWeapon(russell, gunther, 1337, 1);
 
         assert.equal(russell.messages.length, 1);
-        assert.includes(russell.messages[0], "the armour has been bought.");
+        assert.includes(russell.messages[0], "Spawn armour has been bought.");
         assert.equal(gunther.messages.length, 0);
     });
 
