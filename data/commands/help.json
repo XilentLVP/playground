@@ -85,17 +85,13 @@
       "Beginning another round of earning the achievements will not reset the benefits. Once granted, you will keep them indefinitely.",
       "",
       "{FF8E02}Red Barrels",
-      "Red Barrels have appeared all around San Andreas, and we need your help in removing them to avoid any incidents. This is a minigame where players have to find all the explosive barrels scattered throughout the world, and shoot them once to get rid of them.",
-      "As of right now, we have placed 100 red barrels on the Las Venturas islands. In the future we plan to place another 100 in the San Fierro region, and 100 more in the Los Santos region, with different colours of barrels to distinguish them as separate games.",
+      "A hundred {FF5252}Red Barrels{A9C4E4} have been left all over Las Venturas,\r\ncausing havoc and endangering all players on the server. We\r\nneed your help in finding and exploding them!",
       "",
       "{FF8E02}Spray Tags",
-      "Spray tags can be found on the walls of Las Venturas, left there by gangs who have moved on from our server many years ago. Your help is required in bringing them back up-to-date.",
-      "There are a hundred spray tags in total, which can be collected by spraying the Spray Can weapon for at least two seconds on one of the tags. Collected tags change colour, making them visually distinct to emphasise that you've already collected it.",
+      "A hundred {B2FF59}Spray Tags{A9C4E4} have been left all over Las Venturas,\r\nby gangs we haven't heard of for years. Would you kindly\r\nhelp us out by tagging them as your own?",
       "",
       "{FF8E02}Treasures",
-      "Fifty books are located all over Red County, Flint County and Whetstone, each of which unlocks a hint that will help you find a treasure—a different hint for each player!",
-      "There are fifty books, and fifty treasures to be found. They're implemented as objects surrounded by an area, because SA-MP does not support per-player pickups, which would lead to confusing issues. Upon entering the area, the collectable will count as having been collected.",
-      "Hints work a little bit different for this series: until the player has collected all the books, no hints can be purchased for finding the actual treasures."
+      "Fifty {B2FF59}old books{A9C4E4} have been left all over Red County, Flint County\r\nand Whetstone, each containing a hint that will help you find\r\na valuable {B2FF59}Treasure{A9C4E4}. Can you find them all?"
     ]
   }
 }
