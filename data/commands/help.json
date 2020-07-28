@@ -75,6 +75,24 @@
       "- Withdraw money - /withdraw [all | [amount]]",
       "- Bank balance - /balance",
       "- Borrow money - /borrow [amount]"
+    ],
+    "Collectables": [
+      "There are various things that can be collected on Las Venturas Playground, in a variety of ways, all of which are implemented through this feature.",
+      "Collectables can be collected in multiple rounds: this enables players to restart again once they have found them all, without affecting the benefits granted by locating them in the first place, nor the achievements they've earned as part of this.",
+      "",
+      "{FF8E02}Red Barrels",
+      "Red Barrels have appeared all around San Andreas, and we need your help in removing them to avoid any incidents. This is a minigame where players have to find all the explosive barrels scattered throughout the world, and shoot them once to get rid of them.",
+      "As of right now, we have placed 100 red barrels on the Las Venturas islands. In the future we plan to place another 100 in the San Fierro region, and 100 more in the Los Santos region, with different colours of barrels to distinguish them as separate games.",
+      "",
+      "{FF8E02}Spray Tags",
+      "Spray tags can be found on the walls of Las Venturas, left there by gangs who have moved on from our server many years ago. Your help is required in bringing them back up-to-date.",
+      "There are a hundred spray tags in total, which can be collected by spraying the Spray Can weapon for at least two seconds on one of the tags. Collected tags change colour, making them visually distinct to emphasise that you've already collected it.",
+      "",
+      "{FF8E02}Treasures",
+      "Fifty books are located all over Red County, Flint County and Whetstone, each of which unlocks a hint that will help you find a treasure—a different hint for each player!",
+      "There are fifty books, and fifty treasures to be found. They're implemented as objects surrounded by an area, because SA-MP does not support per-player pickups, which would lead to confusing issues. Upon entering the area, the collectable will count as having been collected.",
+      "Hints work a little bit different for this series: until the player has collected all the books, no hints can be purchased for finding the actual treasures.",
     ]
+    
   }
 }
