@@ -70,7 +70,7 @@
       "Vehicles can be spawned at all times by Crew and VIP members, but only during the cruise (/cruise car).",
       "Players with 10 spray tags are able to spawn a Premier (/pre) and a Sultan (/sul)."
       "Players with 100 spray tags are able to spawn a NRG (/nrg) and an Infernus (/inf)."
-      "Players who explode 10 Red Barrels	are able to spawn an Elegy (/ele) and a Turismo (/tur)."
+      "Players who explode 10 Red Barrels are able to spawn an Elegy (/ele) and a Turismo (/tur)."
     ],
     "Banking": [
       "- Deposit your money - /bank [all | [amount]]",
